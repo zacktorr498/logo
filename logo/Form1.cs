@@ -34,7 +34,6 @@ namespace logo
             // code for shapes
             g.DrawArc(drawPen, 430, 190, 20, 20, 200, 215);
             g.DrawArc(drawPen, 432, 180, 24, 20, 177, 240);
-            g.DrawArc(drawPen, 200, 100, 24, 38, 195, 240);
         }
     }
 }
